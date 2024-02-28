@@ -80,7 +80,7 @@ public class Methods {
 				result += replacement;
 			}
 			else {
-				result += a;
+				result += a; 
 			}
 		}
 		// TODO: Finish this method
